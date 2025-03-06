@@ -1,4 +1,4 @@
-# OIB-SIP
+# UNEMPLOYMENT
 Final task of my internship program with Oasis Infobyte : Analyzing Unemployment Rates. Analyzing Unemployment rates to uncover trends during COVID-19 pandemic.
 
 Project Objectives:
